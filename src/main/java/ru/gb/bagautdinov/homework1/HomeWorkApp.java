@@ -1,14 +1,12 @@
-package ru.gb.bagautdinov;
+package ru.gb.bagautdinov.homework1;
 
 public class HomeWorkApp {
     public static void main(String[] args) {
-
         printThreeWords();
         checkSumSign();
         printColor();
         compareNumbers();
     }
-
     public static void printThreeWords(){
         System.out.println("Orange");
         System.out.println("Banana");
